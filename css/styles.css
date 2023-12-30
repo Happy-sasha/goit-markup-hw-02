@@ -69,20 +69,22 @@ ul {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 0.5em;
+  letter-spacing: 0.2em;
 }
 
 .hero-button {
   color: #fff;
   background-color: #4d5ae5;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer 
 }
 
-.hero-button:hover {
+.hero-button:hover
+.hero-button:focus {
   background-color: #404bbf;
 }
 
@@ -109,6 +111,7 @@ ul {
 }
 
 .team-headline {
+  color:  #2e2f42;
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -121,6 +124,7 @@ ul {
 }
 
 .team-menu-headline {
+  color:  #2e2f42;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
@@ -130,6 +134,7 @@ ul {
 
 .team-menu-text {
   color: #434455;
+  background-color: #ffffff;
   text-align: center;
   font-size: 16px;
   font-weight: 400;
