@@ -13,25 +13,27 @@ ul {
 }
 
 .heder-logo {
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .heder-logo-span {
-  color: #4d5ae5;
-  font-family: Raleway;
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .heder-menu {
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -43,15 +45,17 @@ ul {
   color: #404bbf;
 }
 
-.heder-kontakt {
+.heder-address-kontakt {
   color: #434455;
+  font-style: normal
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.heder-kontakt:hover {
+.heder-address-kontakt:hover
+.heder-address-kontakt:focus {
   color: #404bbf;
 }
 
