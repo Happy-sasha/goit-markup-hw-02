@@ -13,7 +13,7 @@ ul {
 }
 
 .heder-logo {
-  color: #4d5ae5;
+  color: #2e2f42;
   font-family: "Raleway", sans-serif
   font-size: 18px;
   font-weight: 700;
@@ -23,7 +23,7 @@ ul {
 }
 
 .heder-logo-span {
-  color: #2e2f42;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif
   font-size: 18px;
   font-weight: 700;
@@ -90,6 +90,8 @@ ul {
 
 .studio {
 }
+
+.Studio-menu
 
 .studio-headline {
   font-size: 20px;
