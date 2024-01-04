@@ -13,8 +13,8 @@ ul {
 }
 
 .heder-logo {
-  color: #2e2f42;
-  font-family: "Raleway", sans-serif
+  color: #4d5ae5 ;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -23,8 +23,8 @@ ul {
 }
 
 .heder-logo-span {
-  color: #4d5ae5;
-  font-family: "Raleway", sans-serif
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -41,13 +41,17 @@ ul {
 }
 
 .heder-menu:hover,
-.heder-menu:active {
+.heder-menu:focus {
   color: #404bbf;
+}
+
+.heder-address {
+  font-style: normal
 }
 
 .heder-address-kontakt {
   color: #434455;
-  font-style: normal
+  font-style: normal;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -75,7 +79,7 @@ ul {
 .hero-button {
   color: #fff;
   background-color: #4d5ae5;
-  font-family: "Roboto", sans-serif
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -98,6 +102,7 @@ ul {
 }
 
 .studio-menu-headline {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -124,6 +129,10 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+}
+
+.team-menu {
+  background-color: #FFFFFF
 }
 
 .team-menu-img {
