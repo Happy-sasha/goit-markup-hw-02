@@ -69,7 +69,7 @@ ul {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
 
 .hero-button {
@@ -94,6 +94,10 @@ ul {
 .Studio-menu
 
 .studio-headline {
+  visibility: hidden;
+}
+
+.studio-menu-headline {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -127,6 +131,7 @@ ul {
 
 .team-menu-headline {
   color:  #2e2f42;
+  background-color: #ffffff;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
@@ -180,21 +185,21 @@ ul {
 }
 
 .footer-logo {
-  color: #f4f4fd;
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .footer-logo-span {
-  color: #4d5ae5;
-  font-family: Raleway;
+  color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
