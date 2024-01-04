@@ -58,7 +58,7 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.heder-address-kontakt:hover
+.heder-address-kontakt:hover,
 .heder-address-kontakt:focus {
   color: #404bbf;
 }
@@ -87,7 +87,7 @@ ul {
   cursor: pointer 
 }
 
-.hero-button:hover
+.hero-button:hover,
 .hero-button:focus {
   background-color: #404bbf;
 }
